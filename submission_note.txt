@@ -1,0 +1,7 @@
+SUBMISSION STATUS
+
+This manuscript represents an academic research project on text classification.
+The paper was submitted to several academic publishers but was not accepted for publication.
+
+The content is shared on GitHub for educational, learning, and portfolio purposes only.
+The results and methods remain valid as an academic experiment.
